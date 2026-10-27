@@ -6,4 +6,5 @@ Score your copy on Cialdini's seven principles of persuasion, see your weakest p
 
 - `index.html`: the scorecard (single page, no build step)
 - `order-of-yes.zip`: the Claude skill, downloaded from the page
-- `order-of-yes-chatgpt.zip`: the ChatGPT version (GPT instructions, knowledge files and a paste-in prompt)
+- `order-of-yes-chatgpt-skill.zip`: the skill for ChatGPT Skills (upload as-is)
+- `order-of-yes-chatgpt.zip`: the ChatGPT prompt pack (custom GPT instructions, knowledge files and a paste-in prompt)
